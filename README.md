@@ -11,4 +11,4 @@ cd Subdomain-Finder
 ```
 python subdomainfinder.py
 ```
-<h5>Tank You</h5>
+<h5>Thank You</h5>
